@@ -2,6 +2,7 @@ ComfyUI交互式教程中文翻译版本
 
 [中文版本（制作中）](https://neocao123.github.io/ComfyUI_tutorial_vn_cn/)
 
+
 以下为原版作者信息
 
 # ComfyUI Tutorial VN (WIP)
